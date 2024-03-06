@@ -1,1 +1,1 @@
-# Databricks2Git
+# Databricks
